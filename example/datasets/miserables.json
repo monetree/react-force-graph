@@ -1,7 +1,7 @@
 {
     "nodes": [
-      {"id": "Myriel","color":"#0099ff", "name":"some name", "size":20, "group": 10},
-      {"id": "Napoleon","color":"#0099ff", "name":"some name", "size":20, "group": 1},
+      {"id": "Myriel","color":"#0099ff", "desc":"some name", "size":20, "group": 10},
+      {"id": "Napoleon","color":"#0099ff", "desc":"some name", "size":20, "group": 1},
       {"id": "Mlle.Baptistine","color":"#0099ff", "name":"some name", "size":20, "group": 1},
       {"id": "Mme.Magloire","color":"#0099ff", "name":"some name", "size":20, "group": 1},
       {"id": "CountessdeLo","color":"#0099ff", "name":"some name", "size":20, "group": 1},
